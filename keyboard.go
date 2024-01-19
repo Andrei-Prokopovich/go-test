@@ -1,3 +1,4 @@
+// Package keyboard reads users input from the keyboard
 package keyboard
 
 import (
